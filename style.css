@@ -1,0 +1,19 @@
+*{margin: 0;
+padding: 0;
+top: 0;
+left: 0;
+border: 0;}
+.main{
+    width: 100%;
+	height: 100vh;
+	background-color: #9370DB
+}
+	.text-main{text-align: center;
+		position: relative;
+		top: -450%;
+		color: #fff;}
+.main h1{font-size: 4rem;
+         font-family: 'Courier New'; }
+         p{font-family: 'Comic Sans MS';
+           }
+           .box{background: url(./2.jpg)}
